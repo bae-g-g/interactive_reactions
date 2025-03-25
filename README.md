@@ -17,7 +17,7 @@
 
 ---
 
-# 사용 설명
+# 작동 설명
 
 - 모든 제스처는 오른손 손바닥인 상황에서 정상작동합니다.
   - 화면에 손이 두 개이상인 경우 인식을 하지 않습니다.
@@ -96,3 +96,42 @@
 <img width="456" alt="스크린샷 2025-03-25 오후 4 10 18" src="https://github.com/user-attachments/assets/5aa32c07-6813-4f22-a82f-c3bce0c49000" />
 
 기본모드 전환 제스처로 2초간 유지하여 그림모드를 끝냅니다.
+
+
+---
+# 가상카메라 설정,사용
+
+- 가상카메라를 사용하기 위해서 OBS 프로그램을 사용하였습니다. https://obsproject.com/
+  
+<img width="1153" alt="스크린샷 2025-03-25 오후 4 27 52" src="https://github.com/user-attachments/assets/e4584a27-5bed-4a67-8a9e-641f16e471d7" />
+
+- OBS프로그램을 실행시켜서 설정에서 p5.js 설정한 비디오 크기에 맞춰 640x480으로 설정합니다.
+- 
+
+<img width="1086" alt="스크린샷 2025-03-25 오후 4 31 20" src="https://github.com/user-attachments/assets/ff782a2f-46c7-4fce-8cb0-58fe16a889d0" />
+
+- 소스목록에서 + 버튼 눌러 화면캡쳐를 선택합니다.
+- 
+
+
+
+
+
+<img width="1084" alt="스크린샷 2025-03-25 오후 4 35 35" src="https://github.com/user-attachments/assets/496b3888-eeba-4eaf-a687-f74b339476fb" />
+
+
+- 이름설정에서 확인을 누른 후 방법을 윈도우캡쳐로, 윈도우는 현재p5.js가 실행되는 웹으로 설정합니다.
+- 
+
+<img width="1440" alt="스크린샷 2025-03-25 오후 4 36 50" src="https://github.com/user-attachments/assets/59b01510-fa72-4986-a5a1-d41e940f3338" />
+
+- OBS프로그램 화면에 현재 p5.js페이지가 표시된다면  크기 조절하여 화면에 맞추고 가상카메라시작을 클리하여  가상카메라를 활성화합니다.
+- 
+<img width="963" alt="스크린샷 2025-03-25 오후 4 37 57" src="https://github.com/user-attachments/assets/040e804c-4fcc-41c3-887e-885de5a6a391" />
+
+- 줌에서 회의를 시작하여 카메라 설정에서 OBS virtual camera를 선택합니다.
+- 
+
+<img width="792" alt="스크린샷 2025-03-25 오후 4 46 38" src="https://github.com/user-attachments/assets/1b624e88-1779-4128-993b-8f297a5e4031" />
+
+- 반전이 되어 출력되는 경우 설정에서 내 비디오 미러링을 선택합니다.
